@@ -1,0 +1,389 @@
+Level-1-Amount: 1
+Level-2-Amount: 6
+Level-3-Amount: 12
+Level-4-Amount: 18
+Level-5-Amount: 24
+Level-6-Amount: 30
+
+# Yükseltme için alınacak seviye miktarı.
+Upgrade-Amount: 1
+
+Gui-Title: "Main Menu"
+
+Put-Item-To-Enchant:
+  Name: "&eEnchant an item!"
+  Lore:
+    - ""
+    - "&7Put above item to enchant!"
+
+Cant-Enchant-This-Item:
+  Name: "&cYou can't enchant this item!"
+  Lore:
+    - ""
+    - "&8Put another item to enchant!"
+
+Exit-Item:
+  Name: "&e&lClick here to close gui!"
+  Lore:
+    - ""
+    - "&8Right-click to close gui."
+
+PROTECTION_ENVIRONMENTAL:
+  Main-Menu-Name: "&7Koruma"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Koruma"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+PROTECTION_FIRE:
+  Main-Menu-Name: "&7Ateş Koruması"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Ateş Koruması"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+PROTECTION_FALL:
+  Main-Menu-Name: "&7Tüy Düşüşü"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Tüy Düşüşü"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+PROTECTION_EXPLOSIONS:
+  Main-Menu-Name: "&7Patlama Koruması"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Patlama Koruması"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+PROTECTION_PROJECTILE:
+  Main-Menu-Name: "&7Atış Koruması"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Atış Koruması"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+OXYGEN:
+  Main-Menu-Name: "&7Oksijen"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Oksijen"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+WATER_WORKER:
+  Main-Menu-Name: "&7Solungaç"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Solungaç"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+THORNS:
+  Main-Menu-Name: "&7Dikenler"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Dikenler"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+DEPTH_STRIDER:
+  Main-Menu-Name: "&7Derin Koşucu"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Derin Koşucu"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+FROST_WALKER:
+  Main-Menu-Name: "&7Buz Yürüyücüsü"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Buz Yürüyücüsü"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+DAMAGE_ALL:
+  Main-Menu-Name: "&7Keskinlik"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Keskinlik"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+DAMAGE_UNDEAD:
+  Main-Menu-Name: "&7Darbe"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Darbe"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+DAMAGE_ARTHROPODS:
+  Main-Menu-Name: "&7Eklembacaklıların Kıyameti"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Eklembacaklıların Kıyameti"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+KNOCKBACK:
+  Main-Menu-Name: "&7Savurma"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Savurma"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+FIRE_ASPECT:
+  Main-Menu-Name: "&7Alevden Çehre"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Alevden Çehre"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+LOOT_BONUS_MOBS:
+  Main-Menu-Name: "&7Ganimet"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Ganimet"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+SWEEPING_EDGE:
+  Main-Menu-Name: "&7Süpürücü Kenar"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Süpürücü Kenar"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+DIG_SPEED:
+  Main-Menu-Name: "&7Verimlilik"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Verimlilik"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+SILK_TOUCH:
+  Main-Menu-Name: "&7İpeksi Dokunuş"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7İpeksi Dokunuş"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+DURABILITY:
+  Main-Menu-Name: "&7Kırılmazlık"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Kırılmazlık"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+LOOT_BONUS_BLOCKS:
+  Main-Menu-Name: "&7Servet"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Server"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+ARROW_DAMAGE:
+  Main-Menu-Name: "&7Güç"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Güç"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+    -
+ARROW_KNOCKBACK:
+  Main-Menu-Name: "&7Yumruk"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Yumruk"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+    -
+ARROW_FIRE:
+  Main-Menu-Name: "&7Alev"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Alev"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+ARROW_INFINITE:
+  Main-Menu-Name: "&7Sonsuzluk"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Sonsuzluk"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+LUCK:
+  Main-Menu-Name: "&7Deniz Şansı"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Deniz Şansı"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+LURE:
+  Main-Menu-Name: "&7Ayartma"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Ayartma"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+LOYALTY:
+  Main-Menu-Name: "&7Sadakat"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Sadakat"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+IMPALING:
+  Main-Menu-Name: "&7Şişleme"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Şişleme"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+RIPTIDE:
+  Main-Menu-Name: "&7Girdap"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Girdap"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+CHANNELING:
+  Main-Menu-Name: "&7Yıldırım Yönlendirmesi"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Yıldırım Yönlendirmesi"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+MULTISHOT:
+  Main-Menu-Name: "&7Çoklu Atış"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Çoklu Atış"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+QUICK_CHARGE:
+  Main-Menu-Name: "&7Hızlı Çekiş"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Hızlı Çekiş"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+PIERCING:
+  Main-Menu-Name: "&7Delme"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Delme"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+MENDING:
+  Main-Menu-Name: "&7Tamir"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Tamir"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"
+
+SOUL_SPEED:
+  Main-Menu-Name: "&7Ruh Hızı"
+  Main-Menu-Lore:
+    - ""
+    - "&7Bu büyüyü basmak için tıkla!"
+  Custom-Menu-Name: "&7Ruh Hızı"
+  Custom-Menu-Lore:
+    - "&7%level%. seviye!"
+    - "&7Bu büyüyü basmak için tıkla!"

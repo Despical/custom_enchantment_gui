@@ -1,0 +1,5 @@
+name: CustomEnchantingGui
+author: Despical
+version: ${project.version}
+api-version: 1.16
+main: me.despical.customenchgui.Main
